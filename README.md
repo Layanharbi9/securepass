@@ -1,13 +1,37 @@
-SecurePass 🔐
-Smart Password Strength Analyzer
-🌐 Live Demo: SecurePass
-✨ Overview
-SecurePass is a lightweight web tool designed to help users evaluate and improve the strength of their passwords in real time. It focuses on security awareness through simple and clear feedback.
-🚀 Key Features
-Real-time password strength evaluation
-Detection of weak and commonly used passwords
-Personalized suggestions to create stronger passwords
-Support for both Arabic and English interfaces
-Dark and light theme switching for better user experience
-🔒 Goal
-To encourage better password habits by making security checks simple, fast, and user-friendly.
+# SecurePass 🔐  
+### Smart Password Strength Analyzer
+
+🌐 Live Demo: [SecurePass](https://securepass2.netlify.app/)
+
+---
+
+## ✨ Overview
+SecurePass is a lightweight and user-friendly web application designed to evaluate password strength in real time.  
+It helps users understand the security level of their passwords and improve them using clear and practical feedback.
+
+---
+
+## 🚀 Features
+- Real-time password strength checking  
+- Detection of weak and commonly used passwords  
+- Smart suggestions to create stronger passwords  
+- Bilingual support (Arabic & English)  
+- Dark / Light mode toggle for better user experience  
+
+---
+
+## 🎯 Goal
+The goal of SecurePass is to promote better password habits by making security awareness simple, fast, and accessible for everyone.
+
+---
+
+## 🛠️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📌 Note
+This project focuses on frontend logic and user experience to help improve basic cybersecurity awareness.
+
